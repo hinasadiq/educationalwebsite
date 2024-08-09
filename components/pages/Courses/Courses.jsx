@@ -55,6 +55,7 @@ function Courses() {
                 <div className="card-body">
                   <h5 className="card-title">{course.title}</h5>
                   <p className="card-text">{course.desc}</p>
+                  <button className="register-btn">buy now</button>
                 </div>
               </div>
             </div>
